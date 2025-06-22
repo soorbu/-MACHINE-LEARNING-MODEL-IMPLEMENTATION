@@ -21,3 +21,5 @@ After preparing the dataset, we trained a Logistic Regression model with class_w
 This model can serve as a foundational decision-support tool for hospitals aiming to reduce readmission rates, optimize care plans, and proactively follow up with high-risk patients.
 
 # Screenshots
+
+![Image](https://github.com/user-attachments/assets/aba9198c-2ab5-4e31-9612-1995b6cf2b8e)
